@@ -4,7 +4,7 @@ I'm a CRM Tech Marketer with over 10 year's experience.  I truly enjoy working i
 
 Now for the fun stuff! I am an East Coast native who recently moved to the West Coast. I enjoy painting and going for long walks outside. I have a dog, a cat, and I've also adopted a couple of squirrels who come by daily for walnuts and almonds.  I am learning French (you can learn so much about a culture by learning the language), I enjoy going to plays, and I love supporting small locally owned restaurants and bakeries. I made just one new year's resolution this year: to do 1 pullup. Lastly, just wanted to brag that I didn't use ChapGPT to write any of this! 
 
-[Check out my resume](https://github.com/ChrisThorn10/portfolio/blob/main/Thornton-Resume-2025.pdf)
+[Check out my resume](https://github.com/ChrisThorn10/portfolio/blob/main/thornton-resume-2025-github.pdf)
 <br>
 [CRM process optimization samples]()
 <br>
