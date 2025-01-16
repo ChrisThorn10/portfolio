@@ -1,4 +1,4 @@
-![Hanging with doggie in California superbloom](https://github.com/ChrisThorn10/portfolio/blob/main/profile-posing-with-dog-round-200x200.png?raw=true "a title")
+![Hanging with my doggie in the California superbloom](https://github.com/ChrisThorn10/portfolio/blob/main/profile-posing-with-dog-round-200x200.png?raw=true "Hanging with my doggie in the California superbloom")
 # Hi There! I'm Christie 👋
 I'm a CRM Tech Marketer with over 10 year's experience.  I truly enjoy working in the CRM space as it is ever evolving and presents unique challenges that I find fascinating. I enjoy roles that require a mix of both technical and marketing knowledge. I enjoy collaborating with my teammates, learning different aspects of the business, and finding solutions that have a tangible impact.  I am a documentation enthusiast because I believe in the sharing knowledge to empower others. Also writing things down means you won't forget them later! 
 
