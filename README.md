@@ -6,8 +6,8 @@ Now for the fun stuff! I am an East Coast native who recently moved to the West 
 
 [Check out my resume](https://github.com/ChrisThorn10/portfolio/blob/main/Thornton-Resume-2025.pdf)
 <br>
-[CRM Process Optimization Samples]()
+[CRM process optimization samples]()
 <br>
-[Email Code Samples]()
+[Email code samples]()
 <br>
 [Lets connect on Linkedin](https://www.linkedin.com/in/thornton-christie/)
