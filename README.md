@@ -10,4 +10,4 @@ Now for the fun stuff! I am an East Coast native who recently moved to the West 
 <br>
 [Email code samples]()
 <br>
-[Lets connect on Linkedin](https://www.linkedin.com/in/thornton-christie/)
+[Let's connect on Linkedin](https://www.linkedin.com/in/thornton-christie/)
