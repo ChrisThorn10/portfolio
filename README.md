@@ -6,7 +6,7 @@ Now for the fun stuff! I am an East Coast native who recently moved to the West 
 
 [Resume](https://docs.google.com/document/d/1oBB0xOKOkDPoL-s1BHAmf3oPbg0CxphHB1lYwNjRaTM/edit?tab=t.0)
 <br>
-[Sample process optimization documents](crm-process-optimization-documents)
+[Process optimization documents](crm-process-optimization-documents)
 <br>
 [Email code samples]()
 <br>
