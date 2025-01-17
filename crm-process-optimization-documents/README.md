@@ -1,3 +1,4 @@
+![Hanging with my doggie in the California superbloom](https://github.com/ChrisThorn10/portfolio/blob/main/profile-posing-with-dog-round-200x200.png?raw=true "Hanging with my doggie in the California superbloom")
 # Sample Process Optimization Documents
 Here are some of the tools I use for intake, organization, and execution.
 
