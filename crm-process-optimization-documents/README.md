@@ -3,7 +3,7 @@ Here are some of the tools I use for project intake, organization, and execution
 
 [QA Checklist](https://docs.google.com/document/d/1HqPSlt1MMu0Y3mEEJ4dq0WQvXdIHXPFbVRRW0KWt2UA/edit?tab=t.0)
 <br>
-[Project Intake Form]()
+[Marketing CRM Campaign Intake Form](https://docs.google.com/document/d/1HXA8pzsG0kDC8xnVeAW3nLVz4VTbyUG0xN-vtDdo1yY/edit?tab=t.0)
 <br>
 [Campaign Calendar]()
 <br>
