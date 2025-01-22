@@ -6,7 +6,7 @@ Here are some examples of the documents I use for project intake, organization, 
 * [CRM Ecosystem Event Tracker](https://docs.google.com/spreadsheets/d/1yscK0yls7kBsT6gGQNxsCbU4qgPSWTp8doXi1KAf92s/edit?usp=sharing)
 
 ## Other document and tools I like to use
-* Project Requirements - When working with eng, I like to clearly define the ask and the success requirement for a project.
+* Project Requirements - When working with eng, I like to clearly define the ask and the success requirement.
 * Process Mapping - map out the flow of data for campaigns that require new or exhaustive technical components.
 * Technical System Mapping - map out the tech stack for the CRM Ecosystem, noting connections, limitations, and quirks.
 * Knowledge Base - maintain a repository of technical guides, historical information, standards, useful SQL queries, ect.
