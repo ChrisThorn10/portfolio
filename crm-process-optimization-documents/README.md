@@ -10,7 +10,7 @@ Here are some examples of the documents I use for project intake, organization, 
 * Process Mapping - map out the flow of data for campaigns that require new or exhaustive technical components.
 * Technical System Mapping - map out the tech stack for the CRM Ecosystem, noting connections, limitations, and quirks.
 * Knowledge Base - maintain a repository of technical guides, historical information, standards, useful SQL queries, ect.
-* Post Project Reviews - What went well, what can we do better?
+* Post Project Reviews - What went well and what can we do better?
 
 
 
